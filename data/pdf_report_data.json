@@ -1,0 +1,138 @@
+{
+  "title": "Category Name",
+  "companyLogo": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png",
+  "heading": [
+    "Procedure Category",
+    "Procedure Name"
+  ],
+  "voNumber": "00000000000",
+  "locations": [
+    "Location",
+    "Sub Location 1",
+    "Sub Location 2"
+  ],
+  "categories": [
+    "Location",
+    "Sub Category 1",
+    "Sub Category 2"
+  ],
+  "loggedBy": "Person Name",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod \n\ntincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrudexerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.\n\nDuis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illumdolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesentluptatum zzril delenit augue duis dolore te feugait nulla facilisi.\n\n\nLorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam",
+  "outcomes": [
+    {
+      "color": "#00B6D4",
+      "name": "Outcome Name"
+    }
+  ],
+  "statuses": [
+    {
+      "color": "#56C2B5",
+      "name": "Review Cleared"
+    }
+  ],
+  "isCompleted": false,
+  "isCritical": false,
+  "date": "2022-06-15T10:57:44.099775+02:00",
+  "endTime": "2022-06-16T08:46:44.099775+02:00",
+  "isCapturedLive": true,
+  "isHidden": false,
+  "dateCreated": "2022-05-18T18:28:44.099775+02:00",
+  "dateModified": "2022-05-18T18:28:44.121576+02:00",
+  "involvements": [
+    {
+      "name": "Person Name",
+      "type": "Type",
+      "role": "Role Name",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nib"
+    },
+    {
+      "name": "Person Name",
+      "type": "Type",
+      "role": "Role Name",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,"
+    },
+    {
+      "name": "Person Name",
+      "type": "Type",
+      "role": "Role Name",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nib consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+    },
+    {
+      "name": "Person Name",
+      "type": "Type",
+      "role": "Role Name",
+      "description": "Duis autem vel eum iriure dolor in hendrerit"
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Attachment 1",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png"
+    },
+    {
+      "name": "Attachment 2",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png"
+    },
+    {
+      "name": "Attachment 3",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png"
+    },
+    {
+      "name": "Attachment 4",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png"
+    },
+    {
+      "name": "Attachment 5",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png"
+    },
+    {
+      "name": "Attachment 6",
+      "description": "Lorem ipsum dolor sit amet",
+      "image": "https://staging.visiometric.com/assets/logos/Logo_full_Vertical_colour_transparent.png"
+    }
+  ],
+  "supplements": [
+    {
+      "question": "Lorem ipsum dolor sit amet, consectetuer?",
+      "answer": "Yes"
+    },
+    {
+      "question": "Lorem ipsum dolor sit amet, consectetuer?",
+      "answer": "2022-06-14 20:55"
+    },
+    {
+      "question": "Lorem ipsum dolor sit amet, consectetuer?",
+      "answer": "2022-06-14 20:55"
+    },
+    {
+      "question": "Lorem ipsum dolor sit amet, consectetuer?",
+      "answer": "1"
+    },
+    {
+      "question": "Lorem ipsum dolor sit amet, consectetuer?",
+      "answer": "No"
+    }
+  ],
+  "review": {
+    "doneBy": "Person Name",
+    "personInvolved": "Person Name",
+    "timeFrameStart": "10h56",
+    "timeFrameEnd": "10h59",
+    "durtion": "3 Minutes",
+    "camerasUsed": [
+      "Camera 1",
+      "Camera 6",
+      "Camera 9"
+    ],
+    "reasonForReview": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy nibh euismod tincidunt ut laoreet dolore magna aliquamerat volutpat. Ut wisi enim ad minim veniam, quis nostrud exercitation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodoconsequat. Duis autem vel eum iriure dolor in hendrerit in vulputatevelit esse molestie consequat, vel illum dolore eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesentluptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+    "outcome": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy nibh euismod tincidunt ut laoreet dolore magna aliquamerat volutpat. Ut wisi enim ad minim veniam, quis nostrud exercitation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodoconsequat. Duis autem vel eum iriure dolor in hendrerit in vulputatevelit esse molestie consequat, vel illum dolore eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesentluptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+    "profiling": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diamnonummy nibh euismod tincidunt ut laoreet dolore magna aliquamerat volutpat. Ut wisi enim ad minim veniam, quis nostrud exercitation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodoconsequat. Duis autem vel eum iriure dolor in hendrerit in vulputatevelit esse molestie consequat, vel illum dolore eu feugiat nulla facilisisat vero eros et accumsan et iusto odio dignissim qui blandit praesentluptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
+    "reviewStarted": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam eratvolutpat.\n\n00/00/0000 00:00:00 Ut wisi enim ad minim veniam\n00/00/0000 00:00:00 quis nostrud exerci tation ullamcorper\n00/00/0000 00:00:00 suscipit lobortis nisl ut aliquip ex ea commodo consequat.\n00/00/0000 00:00:00 Duis autem vel eum iriure dolor in hendrerit in vulputate velit\n00/00/0000 00:00:00 sse molestie consequat, vel illum dolore eu feugiat nulla facilisis a\n00/00/0000 00:00:00 t vero eros et accumsan et iusto odio dignissim qui blandit praesent\n\nluptatum zzril delenit augue duis dolore te feugait nulla facilisi."
+  },
+  "additionalInformation": []
+}

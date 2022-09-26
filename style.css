@@ -1,0 +1,126 @@
+body {
+    font-family: 'Montserrat';font-size: 18px;
+}
+h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+.font-16 {
+    font-size: 16px;
+}
+.paper {
+    background-image: url("paper.png");
+    background-repeat: repeat-y;
+    min-width: 800px;
+}
+.full-width {
+    width: 100%;
+}
+.eight-width {
+    width: 80%;
+}
+.two-width {
+    width: 20%;
+}
+.third-width {
+    width: 33.3%;
+}
+.four-width {
+    width: 40%;
+}
+.six-width {
+    width: 60%;
+}
+.half-width {
+    width: 50%;
+    padding: 20px;
+}
+.quarter-width {
+    width: 25%;
+    padding: 20px;
+}
+.general-padding {
+    padding: 20px;
+}
+.attach-card {
+    float: left;
+}
+.logo-container {
+    align-items: center;
+}
+.logo-image {
+    width: 60px;
+}
+.header-bar {
+    background-color: #667589;
+}
+.no-margin {
+    margin: 10px 0;
+    padding: 20px;
+}
+.no-padding {
+    padding: 0;
+}
+.m-right-10 {
+    margin-right: 10px;
+}
+.m-bottom-10 {
+    margin-bottom: 10px;
+}
+.m-top-20 {
+    margin-top: 20px;
+}
+.card {
+    border: 1px solid;
+    border-radius: 10px;
+}
+.flex {
+    display: -webkit-box; /* wkhtmltopdf uses this one */
+    display: flex;
+    -webkit-box-pack: center; /* wkhtmltopdf uses this one */
+    justify-content: center;
+}
+.flex-row {
+    flex-direction: row;
+}
+.flex-column {
+    flex-direction: column;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.align-center {
+    align-items: center;
+}
+.border-top {
+    border-top: 1px solid;
+}
+.border-right {
+    border-right: 1px solid;
+}
+.color-box {
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    width: fit-content;
+    padding: 5px;
+}
+table {
+    margin-top: 20px;
+    font-size: 18px;
+}
+thead {
+    border-bottom: 1px solid;
+    padding-top: 20px;
+}
+td {
+    vertical-align: top;
+    padding: 5px;
+}
+.supplement {
+    background-color: #f0f0f0;
+    margin: 5px;
+}
